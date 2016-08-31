@@ -29,4 +29,4 @@ All hapipip repositories logos
 
 ## Uhu logo :
 
-![Uhu logo](https://raw.github.com/hapipip/logos/master/png/uhu.png)
+![Uhu logo](https://raw.github.com/hapipip/logos/master/png/Uhu.png)
